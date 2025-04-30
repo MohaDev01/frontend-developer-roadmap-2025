@@ -297,6 +297,12 @@ The following timeline provides a rough estimate for how long it might take to p
 - Reddit (r/webdev, r/reactjs, etc.)
 - Discord communities
 
+### Built with:
+
+- <a href="https://lovable.dev">Lovable.dev</a> (web app development)
+- <a href="https://genspark.ai">GenSpark.ai</a> (AI-powered research & content generation)
+- <a href="https://gamma.app">Gamma.app</a> (PDF design & export)
+
 ## Conclusion
 
 2025 front-end landscape is a mix of old and new. Follow this roadmap and you’ll be able to navigate this complex world and build a strong foundation for a successful front-end career.
