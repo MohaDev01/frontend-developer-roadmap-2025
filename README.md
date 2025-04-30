@@ -314,3 +314,5 @@ Becoming a front-end developer is a marathon not a sprint. Enjoy the learning pr
 Happy coding!
 
 ---
+
+🙋‍♂ Helpful? Star it ⭐
