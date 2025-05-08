@@ -297,11 +297,41 @@ The following timeline provides a rough estimate for how long it might take to p
 - Reddit (r/webdev, r/reactjs, etc.)
 - Discord communities
 
+### Tools
+- VS Code
+- GitHub
+- Chrome DevTools
+- Figma
+- CodeSandbox
+
+### Features of this Web App
+This web app includes the following features:
+
+- Interactive Roadmap Cards: Colorful, categorized cards that open detailed dialogs when clicked
+- Theme Switching: Toggle between light and dark modes with persistent user preferences
+- Animated Count-up Statistics: Dynamic number animations that count up as they come into view
+- Responsive Timeline Animation: Interactive learning path with animated progress tracking
+- Tabbed Resources Section: Categorized learning resources with filterable tabs
+- FAQ Dialog: Comprehensive answers to common questions about the roadmap
+- Scroll Animations: Elements that animate as they come into the viewport
+- Mobile-Responsive Design: Optimized layout and navigation for all device sizes
+
 ### Built with:
 
 - <a href="https://lovable.dev">Lovable.dev</a> (web app development)
 - <a href="https://genspark.ai">GenSpark.ai</a> (AI-powered research & content generation)
 - <a href="https://gamma.app">Gamma.app</a> (PDF design & export)
+
+### Technologies Used
+
+This web app is built using the following technologies:
+
+- React: A JavaScript library for building user interfaces
+- TypeScript: A typed superset of JavaScript for better code quality
+- Tailwind CSS: A utility-first CSS framework for rapid UI development
+- shadcn/ui: A collection of reusable React components
+- Framer Motion: For smooth animations and transitions
+- React Router: For handling navigation and routing
 
 ## Conclusion
 
