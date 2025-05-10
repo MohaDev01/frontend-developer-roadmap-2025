@@ -1,3 +1,5 @@
+[![FER (Social)](https://custom-icon-badges.demolab.com/badge/FER-1A56DB?style=social&logo=fer1&logoColor=white)](https://fer.lovable.app)
+
 # The Ultimate Front-End Developer Roadmap for 2025 and Beyond
 
 The tech world is moving fast and front-end development is changing with new tools, frameworks and methodologies. This roadmap is a guide for newcomers to navigate the front-end world in 2025 and beyond.
