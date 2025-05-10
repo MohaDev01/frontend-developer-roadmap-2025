@@ -14,7 +14,7 @@ This document provides a comprehensive roadmap for newcomers aspiring to become 
 
 **Why**: The goal is to provide others with a clear, well-researched guide to start their front-end development career. Its relevance is ensured by leveraging AI for deep, up-to-date research covering 2025 and the years that follow.
 
-Feel free to explore the roadmap, follow the suggested path, and contribute to the repository if you find it helpful!
+Feel free to explore the roadmap, follow the suggested path, and star the repository if you find it helpful!
 
 ---
 
