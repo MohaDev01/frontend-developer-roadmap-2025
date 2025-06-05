@@ -1,4 +1,4 @@
-[![FER (Social)](https://custom-icon-badges.demolab.com/badge/FER-1A56DB?style=social&logo=fer1&logoColor=white)](https://fer.lovable.app)
+[![FER (Social)](https://custom-icon-badges.demolab.com/badge/FER-1A56DB?style=social&logo=fer1&logoColor=white)](https://fer.lovable.app) [![FER v2 (Social)](https://custom-icon-badges.demolab.com/badge/FERv2-1A56DB?style=social&logo=fer1&logoColor=white)](https://fer1.netlify.app)
 
 # The Ultimate Front-End Developer Roadmap for 2025 and Beyond
 
